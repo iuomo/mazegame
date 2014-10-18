@@ -1,6 +1,6 @@
 mazegame
 ========
-<font color ="00ff00">
+<font color ="#00ff00">
 I used codeblocks on Windows7&8 and Debain Linux to compile and run this code. <br />
 <hr />
 <pre>
